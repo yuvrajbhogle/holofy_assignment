@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/holofy_assignment/static/css/main.2410657f.chunk.css",
+    "main.js": "/holofy_assignment/static/js/main.cff8d122.chunk.js",
+    "main.js.map": "/holofy_assignment/static/js/main.cff8d122.chunk.js.map",
+    "runtime-main.js": "/holofy_assignment/static/js/runtime-main.5e3fec88.js",
+    "runtime-main.js.map": "/holofy_assignment/static/js/runtime-main.5e3fec88.js.map",
+    "static/js/2.8a4a8474.chunk.js": "/holofy_assignment/static/js/2.8a4a8474.chunk.js",
+    "static/js/2.8a4a8474.chunk.js.map": "/holofy_assignment/static/js/2.8a4a8474.chunk.js.map",
+    "static/js/3.92cbe0c2.chunk.js": "/holofy_assignment/static/js/3.92cbe0c2.chunk.js",
+    "static/js/3.92cbe0c2.chunk.js.map": "/holofy_assignment/static/js/3.92cbe0c2.chunk.js.map",
+    "index.html": "/holofy_assignment/index.html",
+    "static/css/main.2410657f.chunk.css.map": "/holofy_assignment/static/css/main.2410657f.chunk.css.map",
+    "static/js/2.8a4a8474.chunk.js.LICENSE.txt": "/holofy_assignment/static/js/2.8a4a8474.chunk.js.LICENSE.txt",
+    "static/media/sample_with_audio.88260994.mp4": "/holofy_assignment/static/media/sample_with_audio.88260994.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e3fec88.js",
+    "static/js/2.8a4a8474.chunk.js",
+    "static/css/main.2410657f.chunk.css",
+    "static/js/main.cff8d122.chunk.js"
+  ]
+}
